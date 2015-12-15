@@ -1,0 +1,6 @@
+[application]
+name = 'Fibonacci'
+repo = 'quay.io/reevoo/fib'
+
+[build]
+builder = 'ruby'
