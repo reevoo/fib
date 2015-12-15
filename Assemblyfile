@@ -4,3 +4,5 @@ repo = 'quay.io/reevoo/fib'
 
 [build]
 builder = 'ruby'
+version = '2.2.3'
+script = []
